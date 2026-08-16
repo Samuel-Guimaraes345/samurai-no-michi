@@ -71,5 +71,5 @@ Este projeto foi essencial para consolidar diversos conceitos fundamentais da l�
 
 ## 👤 Autor
 
-Desenvolvido por **[Seu Nome]**  
+Desenvolvido por **[Samuel Guimarães da Silva]**  
 📫 Contato: [samuelzlllcomg@gmail.com] | [LinkedIn](https://linkedin.com/in/seu-perfil)
