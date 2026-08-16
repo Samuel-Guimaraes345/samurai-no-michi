@@ -45,11 +45,11 @@ Acesse a versão publicada via GitHub Pages:
 3. Não é necessário instalar dependências, servidor ou build — o jogo roda 100% no front-end, em um único arquivo autocontido (HTML + CSS + JS).
 
 ### 🎮 Controles
-| Ação |    Teclado/Mouse | Gamepad |
+| Ação | Teclado e Mouse | Gamepad |
 |---|---|---|
 | Mover | W A S D / Setas | Analógico Esquerdo |
 | Atacar | Clique / Espaço | Botão de ataque (auto-mira) |
-| Inventário |    I | Botão dedicado |
+| Inventário | i | Botão dedicado |
 | Pausar | Esc | Start/Options |
 
 *O jogo detecta automaticamente quando um controle é conectado.*
