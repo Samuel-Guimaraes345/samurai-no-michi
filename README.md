@@ -37,6 +37,9 @@ Este projeto foi desenvolvido como parte do 1º semestre do curso de **Análise 
 ### Opção 1: Jogar Online (Recomendado)
 Acesse a versão publicada via GitHub Pages:
 👉 **[Jogar Samurai no Michi](https://samuel-guimaraes345.github.io/samurai-no-michi/)**
+[![Play](https://img.shields.io/badge/▶️_PLAY-Samurai_no_Michi-f0c020?style=for-the-badge)](https://samuel-guimaraes345.github.io/samurai-no-michi/)
+
+Clique no botão acima para jogar direto no navegador, sem instalação necessária.
 
 
 ### Opção 2: Executar Localmente
@@ -72,4 +75,6 @@ Este projeto foi essencial para consolidar diversos conceitos fundamentais da l�
 ## 👤 Autor
 
 Desenvolvido por **[Samuel Guimarães da Silva]**  
-📫 Contato: [samuelzlllcomg@gmail.com] | [LinkedIn](https://www.linkedin.com/in/samuel-guimar%C3%A3es-27437a427/)
+📫 Contato:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](samuelzlllcomg@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-guimar%C3%A3es-27437a427/)
