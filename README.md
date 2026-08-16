@@ -15,7 +15,7 @@ Este projeto foi desenvolvido como parte do 1º semestre do curso de **Análise 
 
 ## ✨ Funcionalidades
 
-- 🎮 **Sistema de Combate** — Enfrente diversos tipos de monstros pelo mapa, com auto-aim (mira automática) no modo gamepad
+- 🎮 **Sistema de Combate** — Enfrente diversos tipos de monstros pelo mapa, com mira automática no modo gamepad
 - 🗡️ **Inventário Completo** — Gerencie poções de cura, espadas, escudos e itens
 - 🛠️ **Sistema de Crafting** — Combine itens para criar equipamentos e consumíveis
 - 💎 **Loot System** — Monstros derrotados dropam itens colecionáveis
@@ -38,7 +38,6 @@ Este projeto foi desenvolvido como parte do 1º semestre do curso de **Análise 
 Acesse a versão publicada via GitHub Pages:
 👉 **[Jogar Samurai no Michi](https://SEU-USUARIO.github.io/samurai-rpg-2d/)**
 
-*(Link disponível após a ativação do GitHub Pages — veja instruções no repositório)*
 
 ### Opção 2: Executar Localmente
 1. Baixe o arquivo `index.html` deste repositório.
@@ -73,4 +72,4 @@ Este projeto foi essencial para consolidar diversos conceitos fundamentais da l�
 ## 👤 Autor
 
 Desenvolvido por **[Seu Nome]**  
-📫 Contato: [seu-email@exemplo.com] | [LinkedIn](https://linkedin.com/in/seu-perfil)
+📫 Contato: [samuelzlllcomg@gmail.com] | [LinkedIn](https://linkedin.com/in/seu-perfil)
