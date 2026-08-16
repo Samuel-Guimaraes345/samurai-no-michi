@@ -36,7 +36,7 @@ Este projeto foi desenvolvido como parte do 1º semestre do curso de **Análise 
 
 ### Opção 1: Jogar Online (Recomendado)
 Acesse a versão publicada via GitHub Pages:
-👉 **[Jogar Samurai no Michi](https://SEU-USUARIO.github.io/samurai-rpg-2d/)**
+👉 **[Jogar Samurai no Michi](https://samuel-guimaraes345.github.io/samurai-no-michi/)**
 
 
 ### Opção 2: Executar Localmente
@@ -72,4 +72,4 @@ Este projeto foi essencial para consolidar diversos conceitos fundamentais da l�
 ## 👤 Autor
 
 Desenvolvido por **[Samuel Guimarães da Silva]**  
-📫 Contato: [samuelzlllcomg@gmail.com] | [LinkedIn](https://linkedin.com/in/seu-perfil)
+📫 Contato: [samuelzlllcomg@gmail.com] | [LinkedIn](https://www.linkedin.com/in/samuel-guimar%C3%A3es-27437a427/)
