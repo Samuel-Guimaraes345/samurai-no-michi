@@ -47,8 +47,8 @@ Acesse a versão publicada via GitHub Pages:
 ### 🎮 Controles
 | Ação | Teclado / Mouse | Gamepad |
 |---|---|---|
-| Mover | W A S D | Analógico Esquerdo |
-| Atacar | Clique | Botão de ataque (auto-mira) |
+| Mover | W A S D / Setas | Analógico Esquerdo |
+| Atacar | Clique / Espaço | Botão de ataque (auto-mira) |
 | Inventário | I | Botão dedicado |
 | Pausar | Esc | Start/Options |
 
