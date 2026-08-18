@@ -70,10 +70,3 @@ Este projeto foi essencial para consolidar diversos conceitos fundamentais da l�
 ## 📌 Status do Projeto
 
 ✅ Concluído — projeto desenvolvido durante o 1º semestre do curso de ADS.
-
-## 👤 Autor
-
-Desenvolvido por **[Samuel Guimarães da Silva]**  
-📫 Contato:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelzlllcomg@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-guimar%C3%A3es-27437a427/)
